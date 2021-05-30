@@ -1,4 +1,4 @@
-name: Todoist Readme
+ame: Todoist Readme
 
 on:
   workflow_dispatch:
@@ -15,4 +15,4 @@ jobs:
       - uses: abhisheknaiidu/todoist-readme@master
         with:
           TODOIST_API_KEY: ${{ secrets.TODOIST_API_KEY }}
-          PREMIUM: true
+          PREMIUM: ""
