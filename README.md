@@ -50,9 +50,8 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> 
 
 📊 **This Week I Spent My Time On:**
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="@thezross&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=@thezross&compact=True"/>
-</a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
