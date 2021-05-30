@@ -56,10 +56,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  7,837 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 642 tasks so far           
-⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
 📈 My GitHub Stats
@@ -70,3 +66,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thezross" />
 </a>
+
+<br />
+<a href="https://www.paypal.me/thezross">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg" />
+</a>
+- if you appreciate my work, please feel free to support.
