@@ -76,6 +76,6 @@ No Activity tracked this Week
 
 <br />
 <a href="https://www.paypal.me/thezross">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg" />
+  <img align="left" alt="Zach's Paypal" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg" />
 </a>
-*- if you appreciate my work, please feel free to support.*
+- If you appreciate my work, please feel free to support.
