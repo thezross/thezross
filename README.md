@@ -18,9 +18,9 @@
 
 <br />
 
-Hi, I'm Zach Ross, a passionate self-taught Full Stack web developer and data scientist. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Zach Ross, a passionate self-taught Full Stack web developer and data scientist. My passion for software lies in identifying user problems to create innovation solutions that are a best fit when deployed. Using AGILE development, I take great care in the experience, architecture, and code quality of the things I build.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I've learned a lot from the open-source community and I love how collaboration and knowledge sharing happen through open-source.
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/9fb771fb621c29b0a2eae945b5ceeeb3/tenor.gif?itemid=19019116" width="500" height="320" />
 
