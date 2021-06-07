@@ -62,7 +62,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!-- TODO-IST:START -->
 🏆  7,666 Karma Points           
 🌸  Completed 0 tasks today           
-🗓  Completed 9 tasks this week           
+🗓  Completed 0 tasks this week           
 ✅  Completed 1,483 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
