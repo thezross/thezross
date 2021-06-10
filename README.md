@@ -54,8 +54,8 @@ I am also an open-source enthusiast and maintainer. I've learned a lot from the 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C        17 mins         ████████████████▓░░░░░░░░   66.03 % 
-Python   9 mins          ████████▒░░░░░░░░░░░░░░░░   33.97 % 
+C        7 hrs 56 mins   ████████████████████████▓   98.11 % 
+Python   9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 ```
 <!--END_SECTION:waka-->
 
