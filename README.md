@@ -60,7 +60,7 @@ HTML   1 hr 29 mins    ███████████████████
 
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
-🏆  8,382 Karma Points           
+🏆  8,396 Karma Points           
 🌸  Completed 0 tasks today           
 🗓  Completed 0 tasks this week           
 ✅  Completed 1,593 tasks so far           
