@@ -18,7 +18,7 @@
 
 <br />
 
-Hi, I'm Zach Ross, a passionate self-taught Full Stack web developer and data scientist. My passion for software lies in identifying user problems to create innovation solutions that are a best fit when deployed. Using an AGILE methodology, I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Zach Ross, a passionate self-taught Full Stack web developer and data scientist. My passion for software lies in identifying user problems to create innovative solutions that are a best fit when deployed. Using an AGILE methodology, I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I've learned a lot from the open-source community and I love how collaboration and knowledge sharing happen through open-source.
 
