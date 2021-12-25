@@ -62,9 +62,9 @@ XML             1 min           ▒░░░░░░░░░░░░░░░
 🚧 **My Todoist Stats:**
 <!-- TODO-IST:START -->
 🏆  8,873 Karma Points           
-🌸  Completed 0 tasks today           
-🗓  Completed 16 tasks this week           
-✅  Completed 1,773 tasks so far           
+🌸  Completed 1 tasks today           
+🗓  Completed 17 tasks this week           
+✅  Completed 1,774 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
