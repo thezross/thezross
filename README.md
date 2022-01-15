@@ -54,9 +54,9 @@ I am also an open-source enthusiast and maintainer. I've learned a lot from the 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Other      1 hr 59 mins    █████████████████████░░░░   83.41 % 
-Text       17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Makefile   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
+Other      1 hr 26 mins    █████████████████████▓░░░   87.07 % 
+Makefile   6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Text       5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 ```
 <!--END_SECTION:waka-->
 
