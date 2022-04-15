@@ -55,8 +55,7 @@ I am also an open-source enthusiast and maintainer. I've learned a lot from the 
 <!--START_SECTION:waka-->
 
 ```text
-Text    34 mins         ███████████████▓░░░░░░░░░   62.69 %
-Other   20 mins         █████████▒░░░░░░░░░░░░░░░   37.31 %
+Other   2 hrs 16 mins   ████████████████████░░░░░   79.95 %
 ```
 
 <!--END_SECTION:waka-->
