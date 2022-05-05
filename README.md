@@ -55,7 +55,9 @@ I am also an open-source enthusiast and maintainer. I've learned a lot from the 
 <!--START_SECTION:waka-->
 
 ```text
-Other   55 mins         █████████████████████████   100.00 %
+PowerShell   2 hrs 22 mins   ███████████████████░░░░░░   76.12 %
+Text         42 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
 ```
 
 <!--END_SECTION:waka-->
