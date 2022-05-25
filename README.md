@@ -55,7 +55,7 @@ I am also an open-source enthusiast and maintainer. I've learned a lot from the 
 <!--START_SECTION:waka-->
 
 ```text
-Other   6 mins          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
