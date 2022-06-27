@@ -78,7 +78,3 @@ Other   1 hr 47 mins    ██████████████████�
 </a>
 
 <br />
-<a href="https://www.paypal.me/thezross">
-  <img align="left" alt="Zach's Paypal" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/paypal.svg" />
-</a>
-- if you appreciate my work, please feel free to support :smile:
