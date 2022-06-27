@@ -26,7 +26,6 @@ I am also an open-source enthusiast and maintainer. I've learned a lot from the 
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@thezross](https://twitter.com/thezross);
-- 📝 [Resume](https://drive.google.com/file/d/1ilAynGdFYx_ILH1z2Yoii_b1-5ocbyBI/view)
 
 **Languages and Tools:**  
 
